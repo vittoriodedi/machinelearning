@@ -1,5 +1,5 @@
 # machinelearning
-This repository contains my 'Machine Learning' course final project and some other stuff
+This repository contains my “Machine Learning” course final project
 
 ## Overview
 
